@@ -1,8 +1,10 @@
 # Hi, I'm Abdulhameed 
 
-I'm a frontend developer who enjoys building real, usable products not just interfaces that look good, but ones that actually work well.
+I build fast, responsive, and user-focused web applications.
 
-Right now, I focus on building modern web apps using React, Next.js, and TypeScript. I like thinking about structure, performance, and how users actually experience what I build.
+I'm a frontend developer working with React, Next.js, and TypeScript, with experience building full-stack products using Supabase and Cloudflare.
+
+Most of what I enjoy is taking an idea and turning it into something people can actually use.
 
 ---
 
