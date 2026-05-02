@@ -49,6 +49,7 @@ Most of what I enjoy is taking an idea and turning it into something people can 
 
 ## Let’s connect
 
+- Portfolio: https://dev-abdulhameed.vercel.app
 - LinkedIn: www.linkedin.com/in/abdulhameed-adewunmi-181a6b2b4
 - Email: adewunmiabdulhameed7@gmail.com
 
